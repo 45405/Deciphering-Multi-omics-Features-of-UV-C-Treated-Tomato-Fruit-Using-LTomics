@@ -1,0 +1,2 @@
+# Deciphering Multi-omics Features of UV-C-Treated Tomato Fruit Using LTomics
+This repository provides the reproducible analysis workflow, source data, analysis scripts, and output files for the UV-C-treated tomato case study in the LTomics database. This case study aims to demonstrate the platform's data retrieval and visualization capabilities, ensuring that all reported results are traceable to the source data and fully reproducible.
